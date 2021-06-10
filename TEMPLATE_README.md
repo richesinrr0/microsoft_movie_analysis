@@ -1,14 +1,24 @@
 # Title
 
-**Authors**: Student1, Student2
+**Authors**: Wil Dotson, Ross Richesin, Katie Skoda
 
 ## Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+We utilized our datasets to gather information on how much the production budget should be, which month is the best time to release, which genre is most viewed, and who the film should cater towards. 
+Our data shows that you should release a PG-13 action/adventure film in July with a minimum production budget of $31 million and a target audience of ages 12 and up. 
+We took a high level approach that focused mainly on the profitability and its effect on film success. By manipulating our domestic gross and production budget, we were able to create a new dataset--Profit--which provided us with better visualizations of which movies were most successful. We then used that data to observe which months grossed the most profit. With gross in mind, we found the top three genres that were most successful and compared their mean grosses with each month to ensure our original month observations matched. Once we had the genre and month, we found the most popular content rating to capture our target audience.
 
 ## Business Problem
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
+There are millions of different directions you can take while deciding the production plan for your new movie. After analyzing multiple datasets, we can recommend the best direction to take your film. 
+What makes a movie successful?
+    Profitability
+    High ratings
+    Sufficient budget
+    Proper accessibility rating
+    Release timing
+We chose to focus our efforts on overall profit because production companies main concentration is to generate the biggest payback possible.
+
 
 ***
 Questions to consider:
@@ -19,7 +29,22 @@ Questions to consider:
 
 ## Data
 
-Describe the data being used for this project.
+Our datasets came from : 
+Rotten Tomatoes
+IMDb files
+B.O.M. Film Productions Co.
+Each data set includes different columns of information that we merged, compared, and manipulated to pull out all data needed to solve our questions.
+
+We wanted to focus on the most recent years, but ran into some problems in 2019 and 2020. 
+
+For obvious reasons, COVID halted film releases and production. 
+
+2019 Problems:
+Did not cater to audiences 
+Unattractive sequels
+Franchise fatigue
+Too much competition + new streaming platforms
+Bad reviews at the beginning (solution: release this movie on a different weekend than any other action & adventure films)
 
 ***
 Questions to consider:
