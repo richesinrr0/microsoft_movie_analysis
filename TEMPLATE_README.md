@@ -1,10 +1,10 @@
 # Title
 
-**Authors**: Student1, Student2
+**Authors**: Wil Dotson, Ross Richesin, Katie Skoda
 
 ## Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+
 
 ## Business Problem
 
